@@ -6,10 +6,10 @@ public class OddOrEven {
         System.out.println(identify(6));
     }
 
-    public static String identify(int num) {
-        if (num % 2 == 0) {
+    public static String identify(int num){
+        if (num % 2 ==0) {
             return "Even";
-        } else {
+        }else {
             return "Odd";
         }
     }
