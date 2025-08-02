@@ -1,6 +1,6 @@
 package sakinah;
 
-import static aliya.OddOrEven.identify;
+import static sakina.OddOrEven.identify;
 
 public class Week1 {
     public static void main(String[] args) {
