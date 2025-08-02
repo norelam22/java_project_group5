@@ -1,6 +1,6 @@
 package sakinah;
 
-import static sakinah.OddOrEven.identify;
+import java.util.*;
 
 public class Week1 {
     public static void main(String[] args) {
