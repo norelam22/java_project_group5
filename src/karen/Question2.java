@@ -9,7 +9,7 @@ public class Question2 {
     }
 
     public static void FINRA(){
-        int n = 30;
+
         int number = 1;
 
         do {
