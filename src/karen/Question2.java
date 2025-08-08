@@ -4,11 +4,11 @@ public class Question2 {
 
     public static void main(String[] args) {
 
-        FINRA(30);
+        FINRA();
 
     }
 
-    public static void FINRA(int num){
+    public static void FINRA(){
         int n = 30;
         int number = 1;
 
