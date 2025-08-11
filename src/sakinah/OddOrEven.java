@@ -1,8 +1,6 @@
 package sakinah;
 
-import java.util.*;
-
-public class Week1 {
+public class OddOrEven {
     public static void main(String[] args) {
         identify (5);
          identify(6) ;
