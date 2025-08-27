@@ -10,9 +10,9 @@ public class SwapTwoNumbers {
         int a = 24;
         int b = 10;
 
-        b = a + b;
-        a = b + a;
+        a = a + b;
         b = a - b;
+        a = a - b;
 
         System.out.println("a = " + a);
         System.out.println("b = " + b);
