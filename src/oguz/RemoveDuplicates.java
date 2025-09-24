@@ -11,9 +11,7 @@ public class RemoveDuplicates {
 
         ArrayList<String> list = new ArrayList<>(Arrays.asList("A", "A", "A", "B", "B", "B", "C", "C", "C"));
 
-        Set<String> unique = removeDup(list);
-
-        System.out.println("Unique elements: " + unique);
+        System.out.println("Unique elements: " + removeDup(list));
 
     }
 
