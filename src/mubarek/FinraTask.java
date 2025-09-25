@@ -15,9 +15,9 @@ public class FinraTask {
             } else if (i % 5 == 0) { //else If i divisible by 5 print RA.
                 print = "RA";
             } else {
-                System.out.print(i); // Else, not divisible by 3 or 5 → Print the number itself.
+                System.out.print(i+" "); // Else, not divisible by 3 or 5 → Print the number itself.
             }
-            System.out.println(print);
+            System.out.print(print +" ");
         }
     }
 }
